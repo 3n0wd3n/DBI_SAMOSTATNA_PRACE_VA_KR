@@ -11,3 +11,7 @@
  * Předělat podle dohody obou stran
  * Udělat ucelenou strukturu dokumentům a dobře okomentovat
  
+ Odkazy:
+ 
+ 
+ [Základní struktura](MAIN_STRUCTURE.pdf)
