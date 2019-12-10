@@ -12,6 +12,8 @@
  * Udělat ucelenou strukturu dokumentům a dobře okomentovat
  
  Odkazy:
- 
+ =======
  
  [Základní struktura](MAIN_STRUCTURE.pdf)
+ [Přiřazení datového typu](DATA_TYPE.pdf)
+ [Velikost položek](COUNT.pdf)
