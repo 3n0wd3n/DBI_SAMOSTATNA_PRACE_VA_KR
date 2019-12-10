@@ -15,7 +15,10 @@
  =======
  
  [Základní struktura](MAIN_STRUCTURE.pdf)
+ Surový ER-DIAGRAM.
  
  [Přiřazení datového typu](DATA_TYPE.pdf)
+ ER-DIAGRAM, ve kterém jsou přiřazené datové typy.
  
  [Velikost položek](COUNT.pdf)
+ Přiřezení velikosti k jednotlivým položkám.
